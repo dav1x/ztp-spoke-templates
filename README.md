@@ -1,0 +1,1 @@
+# ztp-spoke-templates
